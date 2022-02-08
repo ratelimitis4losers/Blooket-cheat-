@@ -1,5 +1,5 @@
 # gbasil-qbasil.dev
-This blooket hack was made by basil.
+This blooket hack was made by https://github.com/gBasil.
 His website is amazing and contains the original bookmarklet for the hack.
 He has multiple mirror sites just incase it is blocked at your school or other places
 The original site is gbasil.dev (copy the code and drag it into your bookmark folder)
